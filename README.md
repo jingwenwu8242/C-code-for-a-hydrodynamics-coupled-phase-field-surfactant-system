@@ -1,1 +1,2 @@
 # C-code-for-a-hydrodynamics-coupled-phase-field-surfactant-system
+Hybrid Lagrange multipliers are introduced into two Allen--Cahn type equations.A practically linear second order scheme is used to solve the model.The code is based on C. In Sec 4_3 the phase separation with fluid flow is simulated. In Sec 4_5, we consider coalescence dynamics of two closely surfactant-laden droplets driven by the imposed shear flow. 
